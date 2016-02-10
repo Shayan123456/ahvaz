@@ -227,6 +227,7 @@ function create_config( )
     "add_admin",
     "anti_spam",
     "add_bot",
+    "time",
     "owners",
     "set",
     "get",
